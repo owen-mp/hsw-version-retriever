@@ -1,4 +1,3 @@
-# easiest shit i have ever done lmao
 import jwt, json
 
 def get_hsw_version(req):
